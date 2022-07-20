@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Seehbboy
 - 👀 I’m interested in Data Science applications.
-- 🌱 I’m currently learning MySQL and Python.
+- 🌱 I’m currently learning MyPostgreSQL and Python.
 - 💞️ I’m looking for the intern opportunities.
 - 📫 How to reach me moseybek@gmail.com.
 
